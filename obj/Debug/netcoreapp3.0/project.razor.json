@@ -1,0 +1,60 @@
+{
+  "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/ContosoCrafts.WebSite.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "ContosoCrafts.WebSite",
+  "Documents": [
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Components/ProductList.razor",
+      "TargetPath": "Components\\ProductList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/src/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

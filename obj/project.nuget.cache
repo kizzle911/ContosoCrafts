@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r90vkF2bf6y50yQouvhjkPdymzxknph4SdGiKhXz1GqXWL7c4vPz9YKgNSo9Ju4zvjeQ7pg7aI5dM0LciEcm6g==",
+  "success": true,
+  "projectFilePath": "/Users/ksalgado/Documents/Scripts/Personal/Github/ContosoCrafts/ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/ksalgado/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/ksalgado/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
