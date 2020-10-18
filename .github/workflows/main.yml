@@ -7,7 +7,7 @@ on:
 
 env:
     AZURE_WEBAPP_NAME: ks-ContosoCrafts-rg
-    AZURE_WEBAPP_PATH: '.'
+    AZURE_WEBAPP_PATH: './src'
     DOTNET_VERSION: '3.1.402'
 
 jobs:
