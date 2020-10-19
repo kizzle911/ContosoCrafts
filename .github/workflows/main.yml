@@ -6,7 +6,7 @@ on:
             - master
 
 env:
-    AZURE_WEBAPP_NAME: ks-ContosoCrafts-rg
+    AZURE_WEBAPP_NAME: ks-ContosoCrafts
     AZURE_WEBAPP_PATH: '.'
     DOTNET_VERSION: '3.1.402'
 
